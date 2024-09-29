@@ -1,0 +1,11 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\bin\Debug\net8.0\GestioneStanze.Shared.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\bin\Debug\net8.0\GestioneStanze.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\bin\Debug\net8.0\GestioneStanze.Shared.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\GestioneStanze.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\GestioneStanze.Shared.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\GestioneStanze.Shared.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\GestioneStanze.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\GestioneStanze.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\refint\GestioneStanze.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\GestioneStanze.Shared.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Shared\obj\Debug\net8.0\ref\GestioneStanze.Shared.dll
