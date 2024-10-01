@@ -1,0 +1,15 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\bin\Debug\net8.0\GestioneStanze.Business.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\bin\Debug\net8.0\GestioneStanze.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\bin\Debug\net8.0\GestioneStanze.Business.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\bin\Debug\net8.0\GestioneStanze.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\bin\Debug\net8.0\GestioneStanze.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\Gestione.5D33756A.Up2Date
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\refint\GestioneStanze.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\GestioneStanze.Business.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneStanze\GestioneStanze.Business\obj\Debug\net8.0\ref\GestioneStanze.Business.dll

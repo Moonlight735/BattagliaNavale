@@ -1,0 +1,12 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\bin\Debug\net8.0\GestioneUtente.Repository.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\bin\Debug\net8.0\GestioneUtente.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\bin\Debug\net8.0\GestioneUtente.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\refint\GestioneUtente.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\GestioneUtente.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Repository\obj\Debug\net8.0\ref\GestioneUtente.Repository.dll

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GestioneStanze.ClientHttp</id>
+    <version>3.1.0</version>
+    <authors>GestioneStanze.ClientHttp</authors>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/Moonlight735/GestioneStanze" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http" version="2.2.2" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http.Json" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneStanze\GestioneStanze.ClientHttp\bin\Debug\net8.0\GestioneStanze.ClientHttp.dll" target="lib\net8.0\GestioneStanze.ClientHttp.dll" />
+    <file src="C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneStanze\GestioneStanze.ClientHttp\README.md" target="\README.md" />
+  </files>
+</package>

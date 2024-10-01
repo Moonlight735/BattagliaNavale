@@ -1,0 +1,7 @@
+﻿namespace GestioneStanze.Shared
+{
+    public class Class1
+    {
+
+    }
+}

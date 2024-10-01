@@ -1,0 +1,12 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\bin\Debug\net8.0\GestioneTorneo.ClientHttp.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\bin\Debug\net8.0\GestioneTorneo.ClientHttp.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\bin\Debug\net8.0\GestioneTorneo.ClientHttp.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\refint\GestioneTorneo.ClientHttp.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\GestioneTorneo.ClientHttp.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.ClientHttp\obj\Debug\net8.0\ref\GestioneTorneo.ClientHttp.dll

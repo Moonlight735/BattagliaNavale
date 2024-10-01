@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.api\\controllers\\gestionetorneocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\controllers\\gestionetorneocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|solutionrelative:gestionetorneo.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.business\\gestionetorneo.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|solutionrelative:gestionetorneo.business\\gestionetorneo.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|solutionrelative:gestionetorneo.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.api\\gestionetorneo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\gestionetorneo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B1D7BB-2ECE-4052-B992-C47CF1D3C0FA}|GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B1D7BB-2ECE-4052-B992-C47CF1D3C0FA}|GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj|solutionrelative:gestionetorneo.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C5B46D-08AF-4FBA-9978-70EF08D896A0}|GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.clienthttp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C5B46D-08AF-4FBA-9978-70EF08D896A0}|GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj|solutionrelative:gestionetorneo.clienthttp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|solutionrelative:gestionetorneo.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B1D7BB-2ECE-4052-B992-C47CF1D3C0FA}|GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B1D7BB-2ECE-4052-B992-C47CF1D3C0FA}|GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj|solutionrelative:gestionetorneo.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F277157-4588-48E3-BBA9-E82D3DFA1797}|GestioneTorneo.Shared\\GestioneTorneo.Shared.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestionetorneo\\gestionetorneo.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F277157-4588-48E3-BBA9-E82D3DFA1797}|GestioneTorneo.Shared\\GestioneTorneo.Shared.csproj|solutionrelative:gestionetorneo.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestioneTorneo.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\appsettings.Development.json",
+              "RelativeToolTip": "GestioneTorneo.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T10:11:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\Business.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.Business\\Business.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\Business.cs",
+              "RelativeToolTip": "GestioneTorneo.Business\\Business.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:16:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestioneTorneoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
+              "RelativeToolTip": "GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:55:22.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\Program.cs",
+              "RelativeToolTip": "GestioneTorneo.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:46:23.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\Abstractions\\IBusiness.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.Business\\Abstractions\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\Abstractions\\IBusiness.cs",
+              "RelativeToolTip": "GestioneTorneo.Business\\Abstractions\\IBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:56:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestioneTorneo.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
+              "RelativeDocumentMoniker": "GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
+              "RelativeToolTip": "GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T22:57:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\Repository.cs",
+              "RelativeToolTip": "GestioneTorneo.Repository\\Repository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:19:39.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestioneTorneo.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj",
+              "RelativeDocumentMoniker": "GestioneTorneo.API\\GestioneTorneo.API.csproj",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj",
+              "RelativeToolTip": "GestioneTorneo.API\\GestioneTorneo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T22:59:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\Class1.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.ClientHttp\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\Class1.cs",
+              "RelativeToolTip": "GestioneTorneo.ClientHttp\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:39:47.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\Class1.cs",
+              "RelativeToolTip": "GestioneTorneo.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:39:10.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\Class1.cs",
+              "RelativeToolTip": "GestioneTorneo.Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:38:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "GestioneTorneo.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Shared\\Class1.cs",
+              "RelativeToolTip": "GestioneTorneo.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:37:12.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

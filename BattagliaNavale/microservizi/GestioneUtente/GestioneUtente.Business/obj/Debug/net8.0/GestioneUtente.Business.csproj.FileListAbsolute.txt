@@ -1,0 +1,15 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\bin\Debug\net8.0\GestioneUtente.Business.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\bin\Debug\net8.0\GestioneUtente.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\bin\Debug\net8.0\GestioneUtente.Business.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\bin\Debug\net8.0\GestioneUtente.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\bin\Debug\net8.0\GestioneUtente.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\Gestione.5F34BD9E.Up2Date
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\refint\GestioneUtente.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\GestioneUtente.Business.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneUtente\GestioneUtente.Business\obj\Debug\net8.0\ref\GestioneUtente.Business.dll
