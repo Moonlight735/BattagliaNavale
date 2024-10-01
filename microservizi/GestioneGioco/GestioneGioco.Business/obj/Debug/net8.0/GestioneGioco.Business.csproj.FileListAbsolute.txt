@@ -1,0 +1,17 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Business.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Business.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\bin\Debug\net8.0\GestioneGioco.Shared.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\Gestione.97E9928C.Up2Date
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\refint\GestioneGioco.Business.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\GestioneGioco.Business.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneGioco\GestioneGioco.Business\obj\Debug\net8.0\ref\GestioneGioco.Business.dll
