@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GestioneStanze.Shared</id>
+    <version>3.1.0</version>
+    <authors>GestioneStanze.Shared</authors>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/Moonlight735/BattagliaNavale" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneStanze\GestioneStanze.Shared\bin\Debug\net8.0\GestioneStanze.Shared.dll" target="lib\net8.0\GestioneStanze.Shared.dll" />
+    <file src="C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneStanze\GestioneStanze.Shared\README.md" target="\README.md" />
+  </files>
+</package>

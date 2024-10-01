@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{D885885A-BD3F-455B-9487-CC65739229A3}|GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj|solutionrelative:gestionestanze.clienthttp\\gestionestanze.clienthttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3811873D-B6DC-4A17-8FBC-902E062BE814}|GestioneStanze.Api\\GestioneStanze.Api.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3811873D-B6DC-4A17-8FBC-902E062BE814}|GestioneStanze.Api\\GestioneStanze.Api.csproj|solutionrelative:gestionestanze.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93770C3A-673C-46A5-A6F6-4B0DD217D252}|GestioneStanze.Repository\\GestioneStanze.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93770C3A-673C-46A5-A6F6-4B0DD217D252}|GestioneStanze.Repository\\GestioneStanze.Repository.csproj|solutionrelative:gestionestanze.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61254DF4-90E3-4759-AF0B-2D42876B0325}|GestioneStanze.Shared\\GestioneStanze.Shared.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.shared\\gestionestanze.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61254DF4-90E3-4759-AF0B-2D42876B0325}|GestioneStanze.Shared\\GestioneStanze.Shared.csproj|solutionrelative:gestionestanze.shared\\gestionestanze.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DA4DD5-9D4F-4198-9DD7-F9A12B015D80}|GestioneStanze.Business\\GestioneStanze.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +19,24 @@
       "RelativeMoniker": "D:0:0:{61254DF4-90E3-4759-AF0B-2D42876B0325}|GestioneStanze.Shared\\GestioneStanze.Shared.csproj|solutionrelative:gestionestanze.shared\\gestionetorneoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D885885A-BD3F-455B-9487-CC65739229A3}|GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.clienthttp\\clienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D885885A-BD3F-455B-9487-CC65739229A3}|GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj|solutionrelative:gestionestanze.clienthttp\\clienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3811873D-B6DC-4A17-8FBC-902E062BE814}|GestioneStanze.Api\\GestioneStanze.Api.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3811873D-B6DC-4A17-8FBC-902E062BE814}|GestioneStanze.Api\\GestioneStanze.Api.csproj|solutionrelative:gestionestanze.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93770C3A-673C-46A5-A6F6-4B0DD217D252}|GestioneStanze.Repository\\GestioneStanze.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93770C3A-673C-46A5-A6F6-4B0DD217D252}|GestioneStanze.Repository\\GestioneStanze.Repository.csproj|solutionrelative:gestionestanze.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3811873D-B6DC-4A17-8FBC-902E062BE814}|GestioneStanze.Api\\GestioneStanze.Api.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.api\\gestionetorneohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3811873D-B6DC-4A17-8FBC-902E062BE814}|GestioneStanze.Api\\GestioneStanze.Api.csproj|solutionrelative:gestionestanze.api\\gestionetorneohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DA4DD5-9D4F-4198-9DD7-F9A12B015D80}|GestioneStanze.Business\\GestioneStanze.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DA4DD5-9D4F-4198-9DD7-F9A12B015D80}|GestioneStanze.Business\\GestioneStanze.Business.csproj|solutionrelative:gestionestanze.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D885885A-BD3F-455B-9487-CC65739229A3}|GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.clienthttp\\clienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D885885A-BD3F-455B-9487-CC65739229A3}|GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj|solutionrelative:gestionestanze.clienthttp\\clienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D885885A-BD3F-455B-9487-CC65739229A3}|GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionestanze\\gestionestanze.clienthttp\\abstractions\\iclienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IClientHttp.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.ClientHttp\\Abstractions\\IClientHttp.cs",
               "RelativeDocumentMoniker": "GestioneStanze.ClientHttp\\Abstractions\\IClientHttp.cs",
@@ -96,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Business.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Business\\Business.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Business\\Business.cs",
               "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Business\\Business.cs",
               "RelativeToolTip": "GestioneStanze.Business\\Business.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBJwAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T10:51:07.318Z",
               "IsPinned": true,
@@ -110,20 +114,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestioneStanze.Shared",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Shared\\GestioneStanze.Shared.csproj",
+              "RelativeDocumentMoniker": "GestioneStanze.Shared\\GestioneStanze.Shared.csproj",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Shared\\GestioneStanze.Shared.csproj",
+              "RelativeToolTip": "GestioneStanze.Shared\\GestioneStanze.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T17:53:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GestioneStanze.ClientHttp",
+              "Title": "GestioneStanze.ClientHttp.csproj",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj",
               "RelativeDocumentMoniker": "GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj",
               "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj",
               "RelativeToolTip": "GestioneStanze.ClientHttp\\GestioneStanze.ClientHttp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-01T12:41:34.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "GestioneTorneoEvent.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Shared\\GestioneTorneoEvent.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Shared\\GestioneTorneoEvent.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GestioneTorneoHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Api\\GestioneTorneoHandler.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Api\\GestioneTorneoHandler.cs",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ClientHttp.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.ClientHttp\\ClientHttp.cs",
               "RelativeDocumentMoniker": "GestioneStanze.ClientHttp\\ClientHttp.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Api\\Program.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Api\\Program.cs",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Business\\Abstractions\\IBusiness.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Business\\Abstractions\\IBusiness.cs",
@@ -188,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Repository\\Repository.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Repository\\Repository.cs",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GestioneStanze.Api\\Properties\\launchSettings.json",
@@ -214,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "GestioneStanze.Api\\appsettings.Development.json",
@@ -227,20 +244,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StanzeController.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Api\\Controllers\\StanzeController.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Api\\Controllers\\StanzeController.cs",
               "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Api\\Controllers\\StanzeController.cs",
               "RelativeToolTip": "GestioneStanze.Api\\Controllers\\StanzeController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAACBjwEAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T16:20:14.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GestioneStanzeDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Repository\\GestioneStanzeDbContext.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Repository\\GestioneStanzeDbContext.cs",
@@ -253,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Business\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Business\\Class1.cs",
@@ -266,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Repository\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Repository\\Class1.cs",
@@ -279,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.ClientHttp\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneStanze.ClientHttp\\Class1.cs",
@@ -292,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneStanze\\GestioneStanze.Shared\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneStanze.Shared\\Class1.cs",

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("GestioneStanze.ClientHttp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestioneStanze.ClientHttp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.1.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Moonlight735/GestioneStanze")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Moonlight735/BattagliaNavale")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
 

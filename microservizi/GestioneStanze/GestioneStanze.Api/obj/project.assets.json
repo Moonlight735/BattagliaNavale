@@ -3875,7 +3875,7 @@
           "bin/placeholder/GestioneStanze.Repository.dll": {}
         }
       },
-      "GestioneStanze.Shared/1.0.0": {
+      "GestioneStanze.Shared/3.1.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
@@ -10649,7 +10649,7 @@
       "path": "../GestioneStanze.Repository/GestioneStanze.Repository.csproj",
       "msbuildProject": "../GestioneStanze.Repository/GestioneStanze.Repository.csproj"
     },
-    "GestioneStanze.Shared/1.0.0": {
+    "GestioneStanze.Shared/3.1.0": {
       "type": "project",
       "path": "../GestioneStanze.Shared/GestioneStanze.Shared.csproj",
       "msbuildProject": "../GestioneStanze.Shared/GestioneStanze.Shared.csproj"
@@ -10658,7 +10658,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "GestioneStanze.Business >= 1.0.0",
-      "GestioneStanze.Shared >= 1.0.0",
+      "GestioneStanze.Shared >= 3.1.0",
       "KafkaFlow >= 3.0.10",
       "KafkaFlow.Extensions.Hosting >= 3.0.10",
       "KafkaFlow.LogHandler.Microsoft >= 3.0.10",

@@ -43,7 +43,7 @@ services:
       - zookeeper            
     
   gestionestanze:
-    image: gestionestanze:latest
+    image: ghcr.io/moonlight735/gestionestanze:latest
     pull_policy: always
     depends_on:
       - mssql-server
@@ -53,7 +53,7 @@ services:
       - "./config/gestionestanze-appsettings.json:/app/appsettings.json:ro"
 
   gestioneutente:
-    image: gestioneutente:latest
+    image: ghcr.io/moonlight735/gestioneutente:latest
     pull_policy: always
     depends_on:
       - mssql-server
@@ -63,7 +63,7 @@ services:
       - "./config/gestioneutente-appsettings.json:/app/appsettings.json:ro"
     
   gestionegioco:
-    image: gestionegioco:latest
+    image: ghcr.io/moonlight735/gestionegioco:latest
     pull_policy: always
     depends_on:
       - mssql-server
@@ -73,7 +73,7 @@ services:
       - "./config/gestionegioco-appsettings.json:/app/appsettings.json:ro"
 
   gestionetorneo:
-    image: gestionetorneo:latest
+    image: ghcr.io/moonlight735/gestionetorneo:latest
     pull_policy: always
     depends_on:
       - mssql-server
