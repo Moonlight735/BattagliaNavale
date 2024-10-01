@@ -16,7 +16,7 @@ COPY ["GestioneTorneo.API/GestioneTorneo.API.csproj", "GestioneTorneo.API/"]
 COPY ["GestioneTorneo.Business/GestioneTorneo.Business.csproj", "GestioneTorneo.Business/"]
 COPY ["GestioneTorneo.Repository/GestioneTorneo.Repository.csproj", "GestioneTorneo.Repository/"]
 COPY ["GestioneTorneo.Shared/GestioneTorneo.Shared.csproj", "GestioneTorneo.Shared/"]
-# RUN dotnet restore "./GestioneTorneo.API/./GestioneTorneo.API.csproj"
+RUN dotnet restore "./GestioneTorneo.API/./GestioneTorneo.API.csproj"
 COPY . .
 WORKDIR "/src/GestioneTorneo.API"
 RUN dotnet build "./GestioneTorneo.API.csproj" -c $BUILD_CONFIGURATION -o /app/build
