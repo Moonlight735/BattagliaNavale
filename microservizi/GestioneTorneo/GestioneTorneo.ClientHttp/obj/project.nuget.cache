@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V3wiQJn6Kgw=",
+  "dgSpecHash": "TDmPTcrU0EA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj",
+  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ida\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\Ida\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

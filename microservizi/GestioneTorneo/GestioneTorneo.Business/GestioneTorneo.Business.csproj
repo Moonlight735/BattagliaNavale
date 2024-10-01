@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="GestioneStanze.ClientHttp" Version="3.1.0" />
+    <PackageReference Include="GestioneStanze.Shared" Version="3.1.0" />
     <PackageReference Include="KafkaFlow" Version="3.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
   </ItemGroup>

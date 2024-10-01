@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l74DpEn3+is=",
+  "dgSpecHash": "5kSY3NSIP5o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ida\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ida\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

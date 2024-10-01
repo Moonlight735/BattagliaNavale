@@ -1,22 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj": {}
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj": {
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj",
+        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj",
         "projectName": "GestioneTorneo.API",
-        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj",
+        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\GestioneTorneo.API.csproj",
         "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.API\\obj\\",
+        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\NuGet.Config",
           "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -27,14 +28,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Moonlight735/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj": {
-                "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj"
+              "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj": {
+                "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj"
               }
             }
           }
@@ -54,6 +56,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "GestioneStanze.ClientHttp": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "KafkaFlow": {
               "target": "Package",
               "version": "[3.0.10, )"
@@ -102,19 +108,20 @@
         }
       }
     },
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj": {
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
         "projectName": "GestioneTorneo.Business",
-        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
+        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\GestioneTorneo.Business.csproj",
         "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Business\\obj\\",
+        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\NuGet.Config",
           "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -125,17 +132,18 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Moonlight735/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj": {
-                "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj"
+              "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj": {
+                "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj"
               },
-              "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj": {
-                "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj"
+              "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj": {
+                "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj"
               }
             }
           }
@@ -155,6 +163,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "GestioneStanze.ClientHttp": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "GestioneStanze.Shared": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "KafkaFlow": {
               "target": "Package",
               "version": "[3.0.10, )"
@@ -184,19 +200,20 @@
         }
       }
     },
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj": {
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj",
+        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj",
         "projectName": "GestioneTorneo.ClientHttp",
-        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj",
+        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj",
         "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.ClientHttp\\obj\\",
+        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.ClientHttp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\NuGet.Config",
           "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -207,7 +224,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Moonlight735/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -255,19 +273,20 @@
         }
       }
     },
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj": {
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
         "projectName": "GestioneTorneo.Repository",
-        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
+        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
         "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\NuGet.Config",
           "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -278,7 +297,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Moonlight735/index.json": {}
         },
         "frameworks": {
           "net8.0": {

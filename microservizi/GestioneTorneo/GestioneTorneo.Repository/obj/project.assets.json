@@ -2755,16 +2755,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
       "projectName": "GestioneTorneo.Repository",
-      "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
+      "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj",
       "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneTorneo\\GestioneTorneo.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\NuGet.Config",
         "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -2775,7 +2776,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/Moonlight735/index.json": {}
       },
       "frameworks": {
         "net8.0": {

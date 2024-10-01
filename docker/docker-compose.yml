@@ -43,6 +43,9 @@ services:
       - zookeeper            
     
   gestionestanze:
+    build:
+      context: ../microservizi/GestioneStanze/
+      dockerfile: GestioneStanze.Api/Dockerfile  
     image: ghcr.io/moonlight735/gestionestanze:latest
     pull_policy: always
     depends_on:
@@ -53,6 +56,9 @@ services:
       - "./config/gestionestanze-appsettings.json:/app/appsettings.json:ro"
 
   gestioneutente:
+    build:
+      context: ../microservizi/GestioneUtente/
+      dockerfile: GestioneUtente.API/Dockerfile   
     image: ghcr.io/moonlight735/gestioneutente:latest
     pull_policy: always
     depends_on:
@@ -63,6 +69,9 @@ services:
       - "./config/gestioneutente-appsettings.json:/app/appsettings.json:ro"
     
   gestionegioco:
+    build:
+      context: ../microservizi/GestioneGioco/
+      dockerfile: GestioneGioco.API/Dockerfile   
     image: ghcr.io/moonlight735/gestionegioco:latest
     pull_policy: always
     depends_on:
@@ -73,6 +82,9 @@ services:
       - "./config/gestionegioco-appsettings.json:/app/appsettings.json:ro"
 
   gestionetorneo:
+    build:
+      context: ../microservizi/GestioneTorneo/
+      dockerfile: GestioneTorneo.API/Dockerfile   
     image: ghcr.io/moonlight735/gestionetorneo:latest
     pull_policy: always
     depends_on:
