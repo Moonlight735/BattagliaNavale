@@ -92,6 +92,8 @@ services:
       - kafka
     environment:
       TZ: Europe/Rome
+      MOONLIGHT735_NUGET_USERNAME: ${MOONLIGHT735_NUGET_USERNAME}
+      MOONLIGHT735_NUGET_PASSWORD: ${MOONLIGHT735_NUGET_PASSWORD}      
     volumes:
       - "./config/gestionetorneo-appsettings.json:/app/appsettings.json:ro"
       
