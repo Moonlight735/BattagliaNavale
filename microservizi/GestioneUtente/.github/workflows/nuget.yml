@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+name: NuGet
+on:
+  push:
+    tags: [ "v*" ]
+env:
+  MOONLIGHT735_NUGET_USERNAME: ${{ secrets.MOONLIGHT735_NUGET_USERNAME }}
+  MOONLIGHT735_NUGET_PASSWORD: ${{ secrets.MOONLIGHT735_NUGET_PASSWORD }}
+jobs:
+  publish_nuget:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: 8.0.x
+    - name: Restore dependencies
+      run: dotnet restore "GestioneUtente.sln"
+    - name: Build
+      run: dotnet build --no-restore "GestioneUtente.sln"
+    - name: Test
+      run: dotnet test --no-build --verbosity normal "GestioneUtente.sln"
+    - name: Build release
+      run: dotnet build --configuration "Release" --no-restore "GestioneUtente.sln"
+    - name: Pack
+      run: dotnet pack --no-restore --configuration Release "GestioneUtente.sln"
+    - name: Push
+      run: dotnet nuget push "*/bin/Release/*.nupkg" --source "Moonlight735" --skip-duplicate --api-key ${{ secrets.MOONLIGHT735_NUGET_PASSWORD }}
+

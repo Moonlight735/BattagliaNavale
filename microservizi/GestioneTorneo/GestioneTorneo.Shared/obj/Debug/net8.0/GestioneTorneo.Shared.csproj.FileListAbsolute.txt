@@ -9,3 +9,14 @@ C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Shar
 C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\refint\GestioneTorneo.Shared.dll
 C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.pdb
 C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\ref\GestioneTorneo.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\bin\Debug\net8.0\GestioneTorneo.Shared.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\bin\Debug\net8.0\GestioneTorneo.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\bin\Debug\net8.0\GestioneTorneo.Shared.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\refint\GestioneTorneo.Shared.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\GestioneTorneo.Shared.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Shared\obj\Debug\net8.0\ref\GestioneTorneo.Shared.dll

@@ -18,13 +18,4 @@
     <ProjectReference Include="..\GestioneTorneo.Repository\GestioneTorneo.Repository.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="GestioneStanze.ClientHttp">
-      <HintPath>..\..\GestioneStanze\GestioneStanze.ClientHttp\bin\Debug\net8.0\GestioneStanze.ClientHttp.dll</HintPath>
-    </Reference>
-    <Reference Include="GestioneStanze.Shared">
-      <HintPath>..\..\GestioneStanze\GestioneStanze.Shared\bin\Debug\net8.0\GestioneStanze.Shared.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

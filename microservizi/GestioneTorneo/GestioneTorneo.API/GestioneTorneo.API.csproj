@@ -20,10 +20,4 @@
     <ProjectReference Include="..\GestioneTorneo.Business\GestioneTorneo.Business.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="GestioneStanze.ClientHttp">
-      <HintPath>..\..\GestioneStanze\GestioneStanze.ClientHttp\bin\Debug\net8.0\GestioneStanze.ClientHttp.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

@@ -10,3 +10,15 @@ C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Repo
 C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\refint\GestioneTorneo.Repository.dll
 C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.pdb
 C:\Users\Ida\Desktop\Progetto\BattagliaNavale\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\ref\GestioneTorneo.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\bin\Debug\net8.0\GestioneTorneo.Repository.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\bin\Debug\net8.0\GestioneTorneo.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\bin\Debug\net8.0\GestioneTorneo.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\refint\GestioneTorneo.Repository.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\GestioneTorneo.Repository.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneTorneo\GestioneTorneo.Repository\obj\Debug\net8.0\ref\GestioneTorneo.Repository.dll
