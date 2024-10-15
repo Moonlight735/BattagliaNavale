@@ -2,8 +2,7 @@
 
 public enum Event
 {
-    ModificaFaseGioco
-    
+    ModificaFaseGioco 
 }
 
 public class GestioneTorneoEvent

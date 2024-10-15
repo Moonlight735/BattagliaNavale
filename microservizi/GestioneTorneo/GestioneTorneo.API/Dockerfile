@@ -12,6 +12,8 @@ ARG MOONLIGHT735_NUGET_PASSWORD
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["NuGet.config", "."]
+RUN sed -i 's/%MOONLIGHT735_NUGET_USERNAME%/'"$MOONLIGHT735_NUGET_USERNAME"'/g' NuGet.config && \
+    sed -i 's/%MOONLIGHT735_NUGET_PASSWORD%/'"$MOONLIGHT735_NUGET_PASSWORD"'/g' NuGet.config
 COPY ["GestioneTorneo.API/GestioneTorneo.API.csproj", "GestioneTorneo.API/"]
 COPY ["GestioneTorneo.Business/GestioneTorneo.Business.csproj", "GestioneTorneo.Business/"]
 COPY ["GestioneTorneo.Repository/GestioneTorneo.Repository.csproj", "GestioneTorneo.Repository/"]

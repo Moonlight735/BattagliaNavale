@@ -46,6 +46,11 @@ public class Business : IBusiness
         
     }
 
+    public async Task CambiaFaseDelGiocoStanzaPadre(int idStanza, string fase_del_gioco, CancellationToken cancellationToken = default)
+    {
+        var stanzaPadre = await _repository.GetStanzaPadre(idStanza);
+        CambiaFaseDelGioco(stanzaPadre.Id, fase_del_gioco, cancellationToken);
+    }
 
     // Implementazione  chiamata ClientHttp
 
@@ -78,9 +83,9 @@ public class Business : IBusiness
     //    var result = await _repository.CambiaFaseDelGioco(id, fase_del_gioco);
     //    return result;
     //}
-    //public async Task<Stanza?> GetStanzaPadre(int id_stanza_param)
-    //{
-    //    var stanzaPadre = await _repository.GetStanzaPadre(id_stanza_param);
-    //    return stanzaPadre;
-    //}
+    public async Task<Stanza?> GetStanzaPadre(int id_stanza_param)
+    {
+        var stanzaPadre = await _repository.GetStanzaPadre(id_stanza_param);
+        return stanzaPadre;
+    }
 }

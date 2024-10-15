@@ -70,7 +70,35 @@ public class Repository : IRepository
         return true;
     }
 
+    //public async Task<bool> CambiaFaseDelGiocoStanzaPadre(int id, string fase_del_gioco)
+    //{
+    //    var stanzaPadre = await GetStanzaPadre(id);
+    //    if (stanzaPadre == null)
+    //    {
+    //        return false;
+    //    }
 
+    //    stanzaPadre.FaseDelGioco = fase_del_gioco;
+    //    _gestionestanzeDbContext.Entry(stanzaPadre).State = EntityState.Modified;
+
+    //    try
+    //    {
+    //        await _gestionestanzeDbContext.SaveChangesAsync();
+    //    }
+    //    catch (DbUpdateConcurrencyException)
+    //    {
+    //        if (!StanzaExists(id))
+    //        {
+    //            return false;
+    //        }
+    //        else
+    //        {
+    //            throw;
+    //        }
+    //    }
+
+    //    return true;
+    //}
 
     public async Task<Stanza?> GetStanza(int id)
     {

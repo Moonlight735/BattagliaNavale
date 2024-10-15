@@ -43,7 +43,7 @@ builder.Services.AddKafka(
         .UseMicrosoftLog()
         .AddCluster(
             cluster => cluster
-                .WithBrokers(new[] { "localhost:9092" })
+                .WithBrokers(new[] { builder.Configuration.GetSection("Kafka:ProducerClient:BootstrapServers").Value })
                 .CreateTopicIfNotExists(topicName, 1, 1)
                 .AddProducer(
                     producerName,

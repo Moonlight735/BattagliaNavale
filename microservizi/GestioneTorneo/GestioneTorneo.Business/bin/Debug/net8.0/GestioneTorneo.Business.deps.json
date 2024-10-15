@@ -2355,7 +2355,7 @@
     "GestioneStanze.Shared/3.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1Qg78Vroz47Gi8Ygh+GlWkaZwUn+jrV7ru64NvtbM2fW9+XucNpMYTw2ThN6Te/m98qF6aWBOo2d+ZS7eQftNg==",
+      "sha512": "sha512-UUYwF0mDPYGXiZgJNACa9pyo0czCl/4XWYAfLM1jJASQWDdxMt0R+HXPja8deLuWhDRI6jq6LszEfB9etPEs3A==",
       "path": "gestionestanze.shared/3.1.0",
       "hashPath": "gestionestanze.shared.3.1.0.nupkg.sha512"
     },

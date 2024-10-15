@@ -37,7 +37,7 @@ builder.Services.AddKafkaFlowHostedService(
     kafka => kafka
         .UseMicrosoftLog()
         .AddCluster(cluster => cluster
-            .WithBrokers(new[] { "localhost:9092" })
+            .WithBrokers(new[] { builder.Configuration.GetSection("Kafka:ConsumerClient:BootstrapServers").Value })
             .AddConsumer(consumer =>
                 consumer
                     .Topic(topicName)
@@ -64,9 +64,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-//app.UseHttpsRedirection();
-
-//app.UseRouting();
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
