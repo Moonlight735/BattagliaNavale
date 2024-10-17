@@ -6,7 +6,7 @@
     <authors>GestioneStanze.Shared</authors>
     <readme>README.md</readme>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/Moonlight735/BattagliaNavale" />
+    <repository type="git" url="https://github.com/Moonlight735/GestioneStanze" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>
