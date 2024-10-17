@@ -87,7 +87,7 @@ services:
       dockerfile: GestioneTorneo.API/Dockerfile 
       args:
         MOONLIGHT735_NUGET_USERNAME: Moonlight735
-        MOONLIGHT735_NUGET_PASSWORD: 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      
+        MOONLIGHT735_NUGET_PASSWORD: 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      
     image: ghcr.io/moonlight735/gestionetorneo:latest
     pull_policy: always
     depends_on:
