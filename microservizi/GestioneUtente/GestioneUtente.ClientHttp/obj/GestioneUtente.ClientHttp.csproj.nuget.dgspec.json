@@ -1,22 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj": {}
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj": {
+      "version": "3.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
+        "projectUniqueName": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
         "projectName": "GestioneUtente.ClientHttp",
-        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
+        "projectPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
         "packagesPath": "C:\\Users\\Ida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\obj\\",
+        "outputPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\NuGet.Config",
           "C:\\Users\\Ida\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -27,7 +28,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Moonlight735/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -49,6 +51,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

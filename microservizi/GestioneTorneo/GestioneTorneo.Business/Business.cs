@@ -19,13 +19,15 @@ public class Business : IBusiness
     private readonly IRepository _repository;
     private readonly IClientHttp _clientHttp;
     private readonly IClientHttp _gestionestanzeClientHttp;
+    private readonly IClientHttp _gestioneutentiClientHttp;
     private IProducerAccessor _producerAccessor;
 
-    public Business(IRepository repository, IClientHttp clientHttp, IClientHttp gestionestanzeClientHttp, IProducerAccessor producerAccessor, ILogger<Business> logger)
+    public Business(IRepository repository, IClientHttp clientHttp, IClientHttp gestionestanzeClientHttp, IClientHttp gestioneutentiClientHttp, IProducerAccessor producerAccessor, ILogger<Business> logger)
     {
         _clientHttp = clientHttp;
         _repository = repository;
         _gestionestanzeClientHttp = gestionestanzeClientHttp;
+        _gestioneutentiClientHttp = gestioneutentiClientHttp;
         _producerAccessor = producerAccessor;
         _logger = logger;
     }
@@ -54,11 +56,11 @@ public class Business : IBusiness
 
     // Implementazione  chiamata ClientHttp
 
-    //public async Task<bool> CambiaFaseDelGioco(int id, string fase_del_gioco, CancellationToken cancellationToken = default)
-    //{
-    //    var response = await _gestionestanzeClientHttp.CambiaFaseDelGioco(id, fase_del_gioco, cancellationToken);
-    //    return response;
-    //}
+    public async Task<bool> CambiaRuolo(int id,char nuovoruolo, CancellationToken cancellationToken = default)
+    {
+        var response = await _gestioneutentiClientHttp.CambiaRuolo(id, nuovoruolo, cancellationToken);
+        return response;
+    }
 
 
     //public async Task<List<Stanza>?> GetStanze()

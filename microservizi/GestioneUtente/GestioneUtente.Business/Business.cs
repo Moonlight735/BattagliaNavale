@@ -1,8 +1,6 @@
-﻿//using AutoMapper;
-using GestioneUtente.Business.Abstractions;
+﻿using GestioneUtente.Business.Abstractions;
 using GestioneUtente.Repository.Abstractions;
 using GestioneUtente.Repository.Model;
-//using Torneo.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using GestioneUtente.Business;
@@ -16,12 +14,9 @@ public class Business : IBusiness
 {
     private readonly IRepository _repository;
     private readonly ILogger<Business> _logger;
-    //private readonly IMapper _mapper;
-
-    //public Business(IRepository repository, IMapper mapper)
+    
     public Business(IRepository repository, ILogger<Business> logger)
     {
-        //_mapper = mapper;
         _repository = repository;
         _logger = logger;
     }
@@ -133,24 +128,5 @@ public class Business : IBusiness
             return false;
         }
     }
-
-    //public async Task<List<TransactionalOutbox>> GetAllTransactionalOutbox(CancellationToken cancellationToken = default) => await _torneoDbContext.TransactionalOutboxList.ToListAsync(cancellationToken);
-
-    //public async Task<TransactionalOutbox?> GetTransactionalOutboxByKey(long id, CancellationToken cancellationToken = default)
-    //{
-    //    return await _torneoDbContext.TransactionalOutboxList.FirstOrDefaultAsync(x => x.Id == id, cancellationToken);
-    //}
-
-    //public async Task DeleteTransactionalOutbox(long id, CancellationToken cancellationToken = default)
-    //{
-    //    _torneoDbContext.TransactionalOutboxList.Remove(
-    //        (await GetTransactionalOutboxByKey(id, cancellationToken)) ??
-    //        throw new ArgumentException($"TransactionalOutbox with id {id} not found", nameof(id)));
-    //}
-
-    //public async Task InsertTransactionalOutbox(TransactionalOutbox transactionalOutbox, CancellationToken cancellationToken = default)
-    //{
-    //    await _torneoDbContext.TransactionalOutboxList.AddAsync(transactionalOutbox);
-    //}
 
 }

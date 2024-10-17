@@ -1,0 +1,12 @@
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\bin\Release\net8.0\GestioneUtente.ClientHttp.deps.json
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\bin\Release\net8.0\GestioneUtente.ClientHttp.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\bin\Release\net8.0\GestioneUtente.ClientHttp.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.csproj.AssemblyReference.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.AssemblyInfoInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.AssemblyInfo.cs
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.csproj.CoreCompileInputs.cache
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\refint\GestioneUtente.ClientHttp.dll
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\GestioneUtente.ClientHttp.pdb
+C:\Users\Ida\Desktop\Progetto\BattagliaNavale\microservizi\GestioneUtente\GestioneUtente.ClientHttp\obj\Release\net8.0\ref\GestioneUtente.ClientHttp.dll

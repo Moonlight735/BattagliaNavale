@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wFy2aeP1lQ8=",
+  "dgSpecHash": "vYJ0YYEFvUY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Repository\\GestioneUtente.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Repository\\GestioneUtente.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ida\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ida\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

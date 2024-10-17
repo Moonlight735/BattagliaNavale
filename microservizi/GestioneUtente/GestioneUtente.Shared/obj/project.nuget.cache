@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQeKjWAf40k=",
+  "dgSpecHash": "um0pPoXTudc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Shared\\GestioneUtente.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Shared\\GestioneUtente.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

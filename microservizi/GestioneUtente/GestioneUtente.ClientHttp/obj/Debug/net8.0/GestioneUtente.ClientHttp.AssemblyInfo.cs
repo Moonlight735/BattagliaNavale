@@ -13,11 +13,12 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestioneUtente.ClientHttp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("3.1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestioneUtente.ClientHttp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestioneUtente.ClientHttp")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("3.1.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Moonlight735")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
 

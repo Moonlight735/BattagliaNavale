@@ -1,7 +1,5 @@
-﻿//using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using GestioneUtente.Business.Abstractions;
-//using Torneo.Shared;
 using GestioneUtente.Repository.Model;
 
 namespace GestioneUtente.Api.Controllers;
@@ -11,13 +9,11 @@ namespace GestioneUtente.Api.Controllers;
 public class UtentiController
 {
     private readonly IBusiness _business;
-    //private readonly IMapper _mapper;
     private readonly ILogger<UtentiController> _logger;
-    //public UtentiController(IBusiness business, IMapper mapper, ILogger<UtentiController> logger)
+    
     public UtentiController(IBusiness business, ILogger<UtentiController> logger)
     {
         _business = business;
-        //_mapper = mapper;
         _logger = logger;
     }
 

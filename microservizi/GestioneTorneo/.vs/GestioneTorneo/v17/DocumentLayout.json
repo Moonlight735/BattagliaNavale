@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.api\\controllers\\gestionetorneocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\controllers\\gestionetorneocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|solutionrelative:gestionetorneo.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.api\\controllers\\gestionetorneocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\controllers\\gestionetorneocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{388D2686-F6F3-4CBB-88E7-6C0244312C11}|GestioneTorneo.Business\\GestioneTorneo.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.business\\abstractions\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2B1D7BB-2ECE-4052-B992-C47CF1D3C0FA}|GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B1D7BB-2ECE-4052-B992-C47CF1D3C0FA}|GestioneTorneo.Repository\\GestioneTorneo.Repository.csproj|solutionrelative:gestionetorneo.repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3334322B-F2DC-424A-9617-15A72295C2EC}|GestioneTorneo.API\\GestioneTorneo.API.csproj|solutionrelative:gestionetorneo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41C5B46D-08AF-4FBA-9978-70EF08D896A0}|GestioneTorneo.ClientHttp\\GestioneTorneo.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestionetorneo\\gestionetorneo.clienthttp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\Abstractions\\IRepository.cs",
               "RelativeDocumentMoniker": "GestioneTorneo.Repository\\Abstractions\\IRepository.cs",
@@ -86,40 +86,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Business.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\Business.cs",
               "RelativeDocumentMoniker": "GestioneTorneo.Business\\Business.cs",
               "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\Business.cs",
               "RelativeToolTip": "GestioneTorneo.Business\\Business.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:16:06.088Z"
+              "WhenOpened": "2024-09-07T16:16:06.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\Program.cs",
               "RelativeDocumentMoniker": "GestioneTorneo.API\\Program.cs",
               "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\Program.cs",
               "RelativeToolTip": "GestioneTorneo.API\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAABsAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:46:23.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GestioneTorneoController.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
               "RelativeDocumentMoniker": "GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
               "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
               "RelativeToolTip": "GestioneTorneo.API\\Controllers\\GestioneTorneoController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:55:22.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:55:22.596Z"
             },
             {
               "$type": "Document",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Repository\\Repository.cs",
               "RelativeDocumentMoniker": "GestioneTorneo.Repository\\Repository.cs",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneTorneo\\GestioneTorneo.Business\\Abstractions\\IBusiness.cs",
               "RelativeDocumentMoniker": "GestioneTorneo.Business\\Abstractions\\IBusiness.cs",

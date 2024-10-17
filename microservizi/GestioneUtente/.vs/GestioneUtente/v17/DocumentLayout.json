@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\",
+  "WorkspaceRootPath": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3B5ACC3-6206-4E1B-BF82-018CDFA16096}|GestioneUtente.API\\GestioneUtente.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestioneutente\\gestioneutente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.clienthttp\\gestioneutente.clienthttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|solutionrelative:gestioneutente.clienthttp\\gestioneutente.clienthttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5ACC3-6206-4E1B-BF82-018CDFA16096}|GestioneUtente.API\\GestioneUtente.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3B5ACC3-6206-4E1B-BF82-018CDFA16096}|GestioneUtente.API\\GestioneUtente.API.csproj|solutionrelative:gestioneutente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C25C09F-C3B7-415F-8F17-12746DDD1140}|GestioneUtente.Repository\\GestioneUtente.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestioneutente\\gestioneutente.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3B5ACC3-6206-4E1B-BF82-018CDFA16096}|GestioneUtente.API\\GestioneUtente.API.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.api\\controllers\\utenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5ACC3-6206-4E1B-BF82-018CDFA16096}|GestioneUtente.API\\GestioneUtente.API.csproj|solutionrelative:gestioneutente.api\\controllers\\utenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.clienthttp\\abstractions\\iclienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|solutionrelative:gestioneutente.clienthttp\\abstractions\\iclienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.clienthttp\\clienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|solutionrelative:gestioneutente.clienthttp\\clienthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0F391-A972-4382-B326-EAE5FBE3109F}|GestioneUtente.Business\\GestioneUtente.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0F391-A972-4382-B326-EAE5FBE3109F}|GestioneUtente.Business\\GestioneUtente.Business.csproj|solutionrelative:gestioneutente.business\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C25C09F-C3B7-415F-8F17-12746DDD1140}|GestioneUtente.Repository\\GestioneUtente.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C25C09F-C3B7-415F-8F17-12746DDD1140}|GestioneUtente.Repository\\GestioneUtente.Repository.csproj|solutionrelative:gestioneutente.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestioneutente\\gestioneutente.clienthttp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.clienthttp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E2487D1-8A93-4EC2-B1D5-EB7C3752C9A0}|GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj|solutionrelative:gestioneutente.clienthttp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F0F391-A972-4382-B326-EAE5FBE3109F}|GestioneUtente.Business\\GestioneUtente.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestioneutente\\gestioneutente.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60F0F391-A972-4382-B326-EAE5FBE3109F}|GestioneUtente.Business\\GestioneUtente.Business.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60F0F391-A972-4382-B326-EAE5FBE3109F}|GestioneUtente.Business\\GestioneUtente.Business.csproj|solutionrelative:gestioneutente.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C25C09F-C3B7-415F-8F17-12746DDD1140}|GestioneUtente.Repository\\GestioneUtente.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestioneutente\\gestioneutente.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C25C09F-C3B7-415F-8F17-12746DDD1140}|GestioneUtente.Repository\\GestioneUtente.Repository.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C25C09F-C3B7-415F-8F17-12746DDD1140}|GestioneUtente.Repository\\GestioneUtente.Repository.csproj|solutionrelative:gestioneutente.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6A053C4-4CCD-4589-8048-5AB1BBD59B6F}|GestioneUtente.Shared\\GestioneUtente.Shared.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\gestioneutente\\gestioneutente.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6A053C4-4CCD-4589-8048-5AB1BBD59B6F}|GestioneUtente.Shared\\GestioneUtente.Shared.csproj|c:\\users\\ida\\desktop\\progetto\\battaglianavale\\microservizi\\gestioneutente\\gestioneutente.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6A053C4-4CCD-4589-8048-5AB1BBD59B6F}|GestioneUtente.Shared\\GestioneUtente.Shared.csproj|solutionrelative:gestioneutente.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +54,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Business\\Business.cs",
+              "RelativeDocumentMoniker": "GestioneUtente.Business\\Business.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Business\\Business.cs",
+              "RelativeToolTip": "GestioneUtente.Business\\Business.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:27:06.181Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtentiController.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.API\\Controllers\\UtentiController.cs",
+              "RelativeDocumentMoniker": "GestioneUtente.API\\Controllers\\UtentiController.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.API\\Controllers\\UtentiController.cs",
+              "RelativeToolTip": "GestioneUtente.API\\Controllers\\UtentiController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:41:17.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClientHttp.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\Abstractions\\IClientHttp.cs",
+              "RelativeDocumentMoniker": "GestioneUtente.ClientHttp\\Abstractions\\IClientHttp.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\Abstractions\\IClientHttp.cs",
+              "RelativeToolTip": "GestioneUtente.ClientHttp\\Abstractions\\IClientHttp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:20:13.249Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GestioneUtente.ClientHttp.csproj",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
+              "RelativeDocumentMoniker": "GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
+              "RelativeToolTip": "GestioneUtente.ClientHttp\\GestioneUtente.ClientHttp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T20:16:44.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientHttp.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\ClientHttp.cs",
+              "RelativeDocumentMoniker": "GestioneUtente.ClientHttp\\ClientHttp.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\ClientHttp.cs",
+              "RelativeToolTip": "GestioneUtente.ClientHttp\\ClientHttp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:17:31.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.API\\Program.cs",
               "RelativeDocumentMoniker": "GestioneUtente.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.API\\Program.cs",
               "RelativeToolTip": "GestioneUtente.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,68 +133,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Repository\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Repository\\Repository.cs",
               "RelativeDocumentMoniker": "GestioneUtente.Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Repository\\Repository.cs",
               "RelativeToolTip": "GestioneUtente.Repository\\Repository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:16:26.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T09:16:26.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneUtente.ClientHttp\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.ClientHttp\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.ClientHttp\\Class1.cs",
               "RelativeToolTip": "GestioneUtente.ClientHttp\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:02:11.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T09:02:11.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Business\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Business\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneUtente.Business\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Business\\Class1.cs",
               "RelativeToolTip": "GestioneUtente.Business\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:01:20.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T09:01:20.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Repository\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Repository\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneUtente.Repository\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Repository\\Class1.cs",
               "RelativeToolTip": "GestioneUtente.Repository\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:00:29.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T09:00:29.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Shared\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Shared\\Class1.cs",
               "RelativeDocumentMoniker": "GestioneUtente.Shared\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\GestioneUtente\\GestioneUtente.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ida\\Desktop\\Progetto\\BattagliaNavale\\microservizi\\GestioneUtente\\GestioneUtente.Shared\\Class1.cs",
               "RelativeToolTip": "GestioneUtente.Shared\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T08:59:10.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T08:59:10.141Z"
             }
           ]
         }
